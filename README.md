@@ -1,5 +1,5 @@
 # CMAR-ES
-CMAR-ES: Building Efficient Classification Based on Multiple Association Rules with Evolution Strategy
+MACES: Building Efficient Classification Based on Multiple Association Rules with Evolution Strategy
 
 ## Requirements
 * Python 3
