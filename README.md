@@ -1,4 +1,4 @@
-# CMAR-ES
+# MACES
 MACES: Building Efficient Classification Based on Multiple Association Rules with Evolution Strategy
 
 ## Requirements
